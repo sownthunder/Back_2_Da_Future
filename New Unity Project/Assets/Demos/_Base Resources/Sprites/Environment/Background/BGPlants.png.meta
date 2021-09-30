@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: 6d72a3508e610764392f073d2dc6f1a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3802484898169523267
+    second: BGPlants_0
+  - first:
+      213: -6804929318410088475
+    second: BGPlants_1
+  - first:
+      213: -2295695453057452137
+    second: BGPlants_2
+  - first:
+      213: -2883213824462678409
+    second: BGPlants_3
+  - first:
+      213: -8503552078879882979
+    second: BGPlants_4
+  - first:
+      213: -5489459548551863421
+    second: BGPlants_5
+  - first:
+      213: 3628387812347812278
+    second: BGPlants_6
+  - first:
+      213: -7842904389315066496
+    second: BGPlants_7
+  - first:
+      213: -7987446748457652792
+    second: BGPlants_8
+  - first:
+      213: 6621491773648610797
+    second: BGPlants_9
+  - first:
+      213: -1402410954781684939
+    second: BGPlants_10
+  - first:
+      213: 3320794902669021291
+    second: BGPlants_11
+  - first:
+      213: 1652313367169666462
+    second: BGPlants_12
+  - first:
+      213: 7792814528319769235
+    second: BGPlants_13
+  - first:
+      213: 3180011721760188507
+    second: BGPlants_14
+  - first:
+      213: 6657225039535012381
+    second: BGPlants_15
+  - first:
+      213: 3097877276881627532
+    second: BGPlants_16
+  - first:
+      213: 2422659085498486340
+    second: BGPlants_17
+  - first:
+      213: -7665824045896626566
+    second: BGPlants_18
+  - first:
+      213: 4561782413490102251
+    second: BGPlants_19
+  - first:
+      213: -7219465620682194100
+    second: BGPlants_20
+  - first:
+      213: -5856745448400440260
+    second: BGPlants_21
+  - first:
+      213: 5754343373709869349
+    second: BGPlants_22
+  - first:
+      213: 2356238261603464001
+    second: BGPlants_23
+  - first:
+      213: -6021566845886999875
+    second: BGPlants_24
+  - first:
+      213: -115944945210172393
+    second: BGPlants_25
+  - first:
+      213: -5478777467749942061
+    second: BGPlants_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BGPlants_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 663
+        width: 266
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a954336ec1c5b4192235767c50d834
+      internalID: -3802484898169523267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 617
+        width: 305
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3385904b837a8cd45b077e0572473228
+      internalID: -6804929318410088475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_2
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 525
+        width: 493
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e203b6b81c1748499b480b7ad426233
+      internalID: -2295695453057452137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_3
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 887
+        width: 169
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d5f29ba8de204b8af3e89094a5b2e
+      internalID: -2883213824462678409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_4
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 882
+        width: 186
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97f942df2576834495d14924bd81c62
+      internalID: -8503552078879882979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_5
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 788
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e489d31def091c147b466c192c216251
+      internalID: -5489459548551863421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_6
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 791
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8911a51475277824da4b6e46e4a588ba
+      internalID: 3628387812347812278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_7
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 789
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d3d2be2f80d2f4aa5cadd96d2447c5
+      internalID: -7842904389315066496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_8
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 787
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b726bbadcb6f0f45b4125a4d20b0b9a
+      internalID: -7987446748457652792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_9
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 535
+        width: 175
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a228aa580cfd07a4db6ac213053aed6c
+      internalID: 6621491773648610797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_10
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 643
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9735603ef991d1c43b934ef3f9103455
+      internalID: -1402410954781684939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_11
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 635
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ef6302b8977c54a8060d101e18cdda
+      internalID: 3320794902669021291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_12
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 647
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45340fd5eaa599d4483c0fabcfc8280b
+      internalID: 1652313367169666462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_13
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 635
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153fde1c0fd521643b05e5f25b5a5634
+      internalID: 7792814528319769235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2
+        width: 318
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28debd292b263847bf77f8df1b07f9d
+      internalID: 3180011721760188507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 318
+        width: 204
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582dfae7364928447af32df13a71b03f
+      internalID: 6657225039535012381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_16
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 511
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e530fa776794b31479d0dd49eb1dd5ac
+      internalID: 3097877276881627532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_17
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 495
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875a5570c250bd1469ea6949e7378495
+      internalID: 2422659085498486340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_18
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 473
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78dd469e25407c439f106fe08844a20
+      internalID: -7665824045896626566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_19
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 481
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d07c20ee26ec264db7f72753a8b096e
+      internalID: 4561782413490102251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4
+        width: 231
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70004ee2814b1b41a794c571eda4a9a
+      internalID: -7219465620682194100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_21
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 13
+        width: 217
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d16752bf05fa6047a91be1cde08af7b
+      internalID: -5856745448400440260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_22
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 34
+        width: 196
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e3e26d690c7ec48b56cc94e9054984
+      internalID: 5754343373709869349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_23
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 254
+        width: 139
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef767aed35888c5498830c35b1f77515
+      internalID: 2356238261603464001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_24
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 3
+        width: 174
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0ab4ac2562b1c42ab3808004974224
+      internalID: -6021566845886999875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_25
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 32
+        width: 150
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad8dbdfced6a7341a4657bf5a6c7d5a
+      internalID: -115944945210172393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGPlants_26
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 33
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f486e758a44d47ba691cafa75b10e
+      internalID: -5478777467749942061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2a8bac3b95a4f244bbd2ea4d0c121d00
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

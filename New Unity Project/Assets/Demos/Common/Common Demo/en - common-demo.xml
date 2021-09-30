@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:blx="BlartenixLanguage-v2.0">
+  <blx:TemplateID>ac7b6b29-b25c-44db-8ba7-13a3ba82cb40</blx:TemplateID>
+  <blx:Name>English</blx:Name>
+  <blx:LanguageTextList>
+    <blx:LanguageText idName="set_title">Settings</blx:LanguageText>
+    <blx:LanguageText idName="set_language_label">Language</blx:LanguageText>
+    <blx:LanguageText idName="set_graphics_label">Graphics</blx:LanguageText>
+    <blx:LanguageText idName="set_resolution_label">Resolution</blx:LanguageText>
+    <blx:LanguageText idName="set_fullscreen_label">Fullscreen</blx:LanguageText>
+    <blx:LanguageText idName="set_music_label">Music</blx:LanguageText>
+    <blx:LanguageText idName="set_soudfxs_label">Sound FX</blx:LanguageText>
+    <blx:LanguageText idName="set_reset_btn">Reset Defaults</blx:LanguageText>
+    <blx:LanguageText idName="tutorial_label">Movement: A &amp; D or Keyboard's Left &amp; Right arrows.\n\nJump: Space bar</blx:LanguageText>
+  </blx:LanguageTextList>
+</Language>

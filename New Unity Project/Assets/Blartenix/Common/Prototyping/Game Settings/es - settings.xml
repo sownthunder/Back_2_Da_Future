@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:blx="BlartenixLanguage-v2.0">
+  <blx:TemplateID>ca2ccf97-a1f6-42d6-8394-9a0c9613f305</blx:TemplateID>
+  <blx:Name>Español</blx:Name>
+  <blx:LanguageTextList>
+    <blx:LanguageText idName="set_title">Configuraciones</blx:LanguageText>
+    <blx:LanguageText idName="set_language_label">Idioma</blx:LanguageText>
+    <blx:LanguageText idName="set_graphics_label">Gráficos</blx:LanguageText>
+    <blx:LanguageText idName="set_resolution_label">Resolución</blx:LanguageText>
+    <blx:LanguageText idName="set_fullscreen_label">Pantalla Completa</blx:LanguageText>
+    <blx:LanguageText idName="set_music_label">Música</blx:LanguageText>
+    <blx:LanguageText idName="set_soudfxs_label">Efectos Sonido</blx:LanguageText>
+    <blx:LanguageText idName="set_reset_btn">Resetear valores</blx:LanguageText>
+  </blx:LanguageTextList>
+</Language>

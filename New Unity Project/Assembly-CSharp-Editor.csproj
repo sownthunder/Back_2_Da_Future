@@ -37,11 +37,33 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\StarterAssets\Editor\ScriptingDefineUtils.cs" />
+     <Compile Include="Assets\StarterAssets\Editor\ThirdPersonStarterAssetsDeployMenu.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\SpritePropertyDrawer.cs" />
      <Compile Include="Assets\StarterAssets\Editor\FirstPersonStarterAssetsDeployMenu.cs" />
      <Compile Include="Assets\StarterAssets\Editor\StarterAssetsDeployMenu.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Editor\VersionInfo.cs" />
      <Compile Include="Assets\StarterAssets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\LanguageTextEditor.cs" />
      <Compile Include="Assets\StarterAssets\Editor\PackageChecker\PackageChecker.cs" />
-     <Compile Include="Assets\StarterAssets\Editor\ThirdPersonStarterAssetsDeployMenu.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\TriggerPictogramEditor.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Editor\LanguageTemplateEditor.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\TriggerPictogram2DEditor.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\LanguageManagerEditor.cs" />
+     <Compile Include="Assets\EasySnap\Editor\CustomSelection.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Editor\EditorTools.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\BillboardEditor.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Editor\AssetmanagerEditor.cs" />
+     <Compile Include="Assets\PathCreator\Examples\Scripts\Editor\PathSceneToolEditor.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Utilities\EditorGUILayoutUtilities.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Drawers\ThirstSettingDrawer.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\SettingsCreator.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Properties\SettingProperty.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Drawers\HungerSettingDrawer.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\SettingsEditor.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\HungerThirstEditor.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Properties\ThirstSettingProperty.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Drawers\SettingDrawer.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Properties\HungerSettingProperty.cs" />
      <None Include="Assets\StarterAssets\Editor\PackageChecker\PackageImportList.txt" />
     <Reference Include="UnityEngine">
         <HintPath>D:/Unity/2020.3.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -282,6 +304,18 @@
     </Reference>
     <Reference Include="LinteumEditor">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/Tafi/Linteum/Editor/LinteumEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="Hson.Utility">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="Hson.Serializer">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Serializer.dll</HintPath>
+    </Reference>
+    <Reference Include="Hson.Formatter">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Formatter.dll</HintPath>
+    </Reference>
+    <Reference Include="Hson.Data">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Data.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
@@ -682,6 +716,14 @@
     <ProjectReference Include="LinteumClient.csproj">
       <Project>{f20a27b1-2d7a-b848-d37b-2330afd77582}</Project>
       <Name>LinteumClient</Name>
+    </ProjectReference>
+    <ProjectReference Include="PathCreatorEditor.csproj">
+      <Project>{17d271ad-b541-8c76-93ca-2c8d90e4aaa8}</Project>
+      <Name>PathCreatorEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="PathCreator.csproj">
+      <Project>{9a551be2-44dd-6801-c662-7614e5de7e7f}</Project>
+      <Name>PathCreator</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:blx="BlartenixLanguage-v2.0">
+  <blx:TemplateID>adf3dcbb-fd95-4e6f-ae76-6619c752f550</blx:TemplateID>
+  <blx:Name>English</blx:Name>
+  <blx:LanguageTextList>
+    <blx:LanguageText idName="tutorial_label">Movement: A &amp; D or Keyboard's Left &amp; Right arrows.\n\nJump: Space bar</blx:LanguageText>
+    <blx:LanguageText idName="settings_label">Settings</blx:LanguageText>
+    <blx:LanguageText idName="language_label">Language</blx:LanguageText>
+  </blx:LanguageTextList>
+</Language>

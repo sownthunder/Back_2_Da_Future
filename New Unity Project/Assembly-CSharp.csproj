@@ -36,45 +36,183 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Classes\LanguageTextXmlTag.cs" />
+     <Compile Include="Assets\EasyGrassSubstance\Example Scene\ObjectRotation.cs" />
+     <Compile Include="Assets\Hellmade\Eazy Sound Manager\Demo\Scripts\EazySoundManagerDemo.cs" />
+     <Compile Include="Assets\Demos\Common\Object Pooling Demos\Transform Object Pooling Demo\bxTransformObjectPoolDemo.cs" />
+     <Compile Include="Assets\EasySnap\Scripts\Unselectable.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\System\Globals.cs" />
+     <Compile Include="Assets\Demos\Common\Common Demo\bxCommonGameManager.cs" />
      <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs" />
      <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Classes\BlartenixLanguage.cs" />
+     <Compile Include="Assets\Demos\Common\Object Pooling Demos\Multiple Objects Pooling Demo\bxShapesPool.cs" />
      <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
      <Compile Include="Assets\StarterAssets\InputSystem\StarterAssetsInputs.cs" />
+     <Compile Include="Assets\RigidbodyExtension\Example\DrawLine.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\LanguageText.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\TriggerPictogram.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Core\ValuableCore.cs" />
+     <Compile Include="Assets\Kiki\Xmas Girl\Script\Cameras\Scripts\AbstractTargetFollower.cs" />
+     <Compile Include="Assets\RigidbodyExtension\Scripts\RigidbodyExtension.cs" />
+     <Compile Include="Assets\Demos\Common\Multi Language Demo\bxMultiLanguageManager.cs" />
+     <Compile Include="Assets\Kiki\Xmas Girl\Script\Cameras\Scripts\FreeLookCam.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\TriggerPictogram2D.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Movements\DirectionMovement.cs" />
      <Compile Include="Assets\StarterAssets\FirstPersonController\Scripts\BasicRigidBodyPush.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Scriptable Objects\GameSettings.cs" />
      <Compile Include="Assets\StarterAssets\TutorialInfo\Scripts\Readme.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\System\MyGlobals.cs" />
+     <Compile Include="Assets\Demos\_Base Resources\Scripts\bxPlayerInputs.cs" />
+     <Compile Include="Assets\EasySnap\Scripts\SnapInfo.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Core\AssetCore.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Classes\JsonUtilityPrimitiveWrapper.cs" />
+     <Compile Include="Assets\Kiki\Xmas Girl\Script\Const.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Manager\BasicManager.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\Abstract\MultipleObjectsPool.cs" />
      <Compile Include="Assets\StarterAssets\FirstPersonController\Scripts\FirstPersonController.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\TransformPool.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\Abstract\SingletonBehaviour.cs" />
+     <Compile Include="Assets\EasySnap\Scripts\HandleControlsUtility.cs" />
+     <Compile Include="Assets\Demos\Common\Common Demo\bxMyLoggerClass.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\Window\TextWindow.cs" />
+     <Compile Include="Assets\Kiki\Xmas Girl\Script\AutoBlink.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Movements\TargetMovement.cs" />
      <Compile Include="Assets\StarterAssets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Menu\CoinsMenu.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\Billboard.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\MainMenu\MenuManager.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Interfaces\IBlartenixLogger.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\MainMenu\RateUS.cs" />
+     <Compile Include="Assets\EasySnap\Scripts\Snap.cs" />
+     <Compile Include="Assets\Kiki\Xmas Girl\Script\PlayerController.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Manager\AssetManager.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Classes\BlartenixLogger.cs" />
      <Compile Include="Assets\StarterAssets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs" />
      <Compile Include="Assets\StarterAssets\ThirdPersonController\Scripts\ThirdPersonController.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\System\EditorTools.cs" />
      <Compile Include="Assets\_Barking_Dog\Common Scripts\Turn_Move.cs" />
-     <Compile Include="Assets\_Barking_Dog\Common Scripts\MouseLook.cs" />
-     <Compile Include="Assets\Kiki\Xmas Girl\Script\AutoBlink.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Scriptable Objects\LanguageTemplate.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\Menu\MainMenuItem.cs" />
      <Compile Include="Assets\Kiki\Xmas Girl\Script\Cameras\Scripts\PivotBasedCameraRig.cs" />
-     <Compile Include="Assets\Kiki\Xmas Girl\Script\Cameras\Scripts\FreeLookCam.cs" />
-     <Compile Include="Assets\Kiki\Xmas Girl\Script\Const.cs" />
-     <Compile Include="Assets\Kiki\Xmas Girl\Script\PlayerController.cs" />
-     <Compile Include="Assets\Kiki\Xmas Girl\Script\Cameras\Scripts\AbstractTargetFollower.cs" />
-     <Compile Include="Assets\RigidbodyExtension\Example\DrawLine.cs" />
-     <Compile Include="Assets\RigidbodyExtension\Scripts\RigidbodyExtension.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Classes\JsonUtilityArrayWrapper.cs" />
+     <Compile Include="Assets\EasySnap\Scripts\SnapRecognize.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\Menu\MainMenu.cs" />
+     <Compile Include="Assets\EasySnap\Scripts\RayCastMasks.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\LanguageManager.cs" />
+     <Compile Include="Assets\Demos\_Base Resources\Scripts\bxCameraFollow.cs" />
+     <Compile Include="Assets\Demos\Common\Object Pooling Demos\Multiple Objects Pooling Demo\bxMultiObjectPoolDemo.cs" />
+     <Compile Include="Assets\Hellmade\Eazy Sound Manager\Scripts\EazySoundManager.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\System\Extensions.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Enums\LookForTagAt.cs" />
+     <Compile Include="Assets\Hellmade\Eazy Sound Manager\Scripts\Audio.cs" />
+     <Compile Include="Assets\Demos\_Base Resources\Scripts\bxEllenController.cs" />
+     <Compile Include="Assets\_Barking_Dog\Common Scripts\MouseLook.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\MainMenu\SoundCheck.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\Abstract\ObjectPool.cs" />
+     <Compile Include="Assets\Demos\Common\Object Pooling Demos\Multiple Objects Pooling Demo\bxShape.cs" />
+     <Compile Include="Assets\EasySnap\Scripts\DecoratorEditor.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\CanvasEnabler.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Classes\Utilities.cs" />
+     <Compile Include="Assets\Blartenix\Common\Prototyping\Game Settings\GameSettingsUI.cs" />
+     <Compile Include="Assets\Demos\Common\Billboard Demo\bxBillboardController.cs" />
+     <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\System\SecurityClass.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Enums\BlartenixLogType.cs" />
+     <Compile Include="Assets\_Creepy_Cat\3D Games Effects Pack Free\Example_02\InstanceExample.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Compression\CompressionScript.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveScript\WebSave.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Internal\Serializer\EncryptionHelper.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Settings\SerializerSettings.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\SaveScript\ISaveRaw.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveLocation\FileLocation.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveLocation\WebLocation.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Internal\Serializer\Serializer.cs" />
+     <Compile Include="Assets\SaveSystem\Examples\Cloud\CloudExample.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Internal\Serializer\HsonRootElementHelper.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Cloud\FtpManager.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Cloud\FtpSearchOption.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Settings\DataModificationSettings.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveScript\SaveUtility.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Hashing\HashingScript.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Hashing\SHA512HashComputation.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveLocation\PlayerPrefsLocation.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Encryption\EncryptionScript.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Exceptions\DataModifiedException.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Internal\CustomTypeReflection.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Compression\GZipCompression.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Encryption\DesEncryption.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Hashing\MD5HashComputation.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveScript\FileSave.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Internal\RawDataConverter.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveScript\PlayerPrefsSave.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Settings\EncryptionSettings.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Internal\Serializer\HashingHelper.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Internal\Serializer\CompressionHelper.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveLocation\SaveLocation.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Settings\CompressionSettings.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveScript\SaveScript.cs" />
+     <Compile Include="Assets\SaveSystem\Scripts\Internal\BitMasking.cs" />
+     <Compile Include="Assets\SoutaNew\Script\ThirdPerson.cs" />
+     <Compile Include="Assets\SoutaNew\Script\PlayerBasicCode.cs" />
+     <Compile Include="Assets\SoutaNew\Script\PlayerMoveCode.cs" />
+     <Compile Include="Assets\PathCreator\Examples\Scripts\PathSceneTool.cs" />
+     <Compile Include="Assets\PathCreator\Examples\Scripts\PathSpawner.cs" />
+     <Compile Include="Assets\PathCreator\Examples\Scripts\PathPlacer.cs" />
+     <Compile Include="Assets\PathCreator\Examples\Scripts\RoadMeshCreator.cs" />
+     <Compile Include="Assets\PathCreator\Examples\Scripts\PathFollower.cs" />
+     <Compile Include="Assets\PathCreator\Examples\Scripts\GeneratePathExample.cs" />
+     <Compile Include="Assets\Low Poly Guns\Scripts\GunView.cs" />
+     <Compile Include="Assets\Low Poly Guns\Scripts\GunsMenu.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\HungerThirst.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\HungerThirstUI.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Pickup\Items\FoodItem.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Pickup\Interacter.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Pickup\IPickable.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Movement\SimpleFPCamera.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\GameRuntime.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\PlayerHealth.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Settings\HungerSettings.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Pickup\Items\DrinkItem.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Settings\SharedSettings.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Settings\ThirstSettings.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Movement\SimpleMovement.cs" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\Standard 2018\Hair mark 9\DitherFunctions.cginc" />
+     <None Include="Assets\Demos\Common\Common Demo\en - common-demo.xml" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\HDRP 7.3\Invisible.shader" />
      <None Include="Assets\sFuture Modules\Read Me.txt" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\Standard 2018\IrayUberGeneral - StandardPipeline.shader" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\URP 7.3\IrayUberGeneral - Universal.shader" />
      <None Include="Assets\ManNeko_Assets\Adventurer Blake\Read Me.txt" />
+     <None Include="Assets\Demos\Common\Multi Language Demo\es - multi language demo.xml" />
+     <None Include="Assets\EasySnap\Materials\shaders\overlayShader.shader" />
      <None Include="Assets\Kiki\Shaders\ToonLitOutline.shader" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\Standard 2018\Hair mark 9\AlphaTest-VertexLit.shader" />
+     <None Include="Assets\_Creepy_Cat\3D Games Effects Pack Free\Example_02\Help Readme SOS.txt" />
+     <None Include="Assets\FN57\Read_me.txt" />
      <None Include="Assets\Kiki\Xmas Girl\Script\Cameras\CameraGuidelines.txt" />
+     <None Include="Assets\SaveSystem\Examples\MoreExamples.txt" />
      <None Include="Assets\StarterAssets\Environment\Shaders\Built-in_RP\Triplanar.shader" />
+     <None Include="Assets\EasyGrassSubstance\Documentation.txt" />
+     <None Include="Assets\Blartenix\Common\Prototyping\Game Settings\en - settings.xml" />
+     <None Include="Assets\Demos\Common\Common Demo\es - common demo.xml" />
      <None Include="Assets\Kiki\Shaders\ToonLit.shader" />
+     <None Include="Assets\Blartenix\Common\Prototyping\Game Settings\es - settings.xml" />
      <None Include="Assets\StarterAssets\license.txt" />
      <None Include="Assets\Kiki\Shaders\ToonBasic.shader" />
      <None Include="Assets\_3dModels\bttf_chars\License.txt" />
+     <None Include="Assets\Demos\Common\Multi Language Demo\en - multi language demo.xml" />
+     <None Include="Assets\_Creepy_Cat\3D Games Effects Pack Free\_FAQ - Informations\Help Readme SOS.txt" />
+     <None Include="Assets\Hunger &amp; Thirst System\Online Documentation.txt" />
      <None Include="Assets\Kiki\Shaders\ToonBasicOutline.shader" />
      <None Include="Assets\Tafi\! Readme\Licenses.txt" />
+     <None Include="Assets\Resources\EasyPopulation\population.xml" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\HDRP 7.3\Helpers\GetLighDirection.hlsl" />
+     <None Include="Assets\POLYGON city pack\Read_me.txt" />
+     <None Include="Assets\Demos\_Base Resources\Fonts\Rajdhani\RajdhaniFontLicense.txt" />
      <None Include="Assets\StarterAssets\Environment\Shaders\Built-in_RP\ArmatureShader.shader" />
+     <None Include="Assets\SaveSystem\Readme.txt" />
      <None Include="Assets\Tafi\! Readme\Readme.txt" />
+     <None Include="Assets\Colt Python\Read_me.txt" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\Standard 2018\Hair mark 9\AlphaCoverageAnisoHair.shader" />
      <None Include="Assets\_Barking_Dog\Readme_Please.txt" />
     <Reference Include="UnityEngine">
@@ -298,6 +436,18 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
         <HintPath>D:/Unity/2020.3.1f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Hson.Utility">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="Hson.Serializer">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Serializer.dll</HintPath>
+    </Reference>
+    <Reference Include="Hson.Formatter">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Formatter.dll</HintPath>
+    </Reference>
+    <Reference Include="Hson.Data">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Data.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>D:/Unity/2020.3.1f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -685,6 +835,14 @@
     <ProjectReference Include="LinteumClient.csproj">
       <Project>{f20a27b1-2d7a-b848-d37b-2330afd77582}</Project>
       <Name>LinteumClient</Name>
+    </ProjectReference>
+    <ProjectReference Include="PathCreatorEditor.csproj">
+      <Project>{17d271ad-b541-8c76-93ca-2c8d90e4aaa8}</Project>
+      <Name>PathCreatorEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="PathCreator.csproj">
+      <Project>{9a551be2-44dd-6801-c662-7614e5de7e7f}</Project>
+      <Name>PathCreator</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

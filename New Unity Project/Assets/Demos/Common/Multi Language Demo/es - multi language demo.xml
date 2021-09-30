@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:blx="BlartenixLanguage-v2.0">
+  <blx:TemplateID>adf3dcbb-fd95-4e6f-ae76-6619c752f550</blx:TemplateID>
+  <blx:Name>Español</blx:Name>
+  <blx:LanguageTextList>
+    <blx:LanguageText idName="tutorial_label">Movimiento: A &amp; D o flechas hacia la derecha e izquierda del teclado.\n\nSalto: barra espaciadora</blx:LanguageText>
+    <blx:LanguageText idName="settings_label">Configuración</blx:LanguageText>
+    <blx:LanguageText idName="language_label">idioma</blx:LanguageText>
+  </blx:LanguageTextList>
+</Language>

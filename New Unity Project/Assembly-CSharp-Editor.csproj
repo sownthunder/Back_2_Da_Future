@@ -36,34 +36,40 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\HungerThirstEditor.cs" />
      <Compile Include="Assets\StarterAssets\Editor\ScriptingDefineUtils.cs" />
      <Compile Include="Assets\StarterAssets\Editor\ThirdPersonStarterAssetsDeployMenu.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\SettingsEditor.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\SpritePropertyDrawer.cs" />
      <Compile Include="Assets\StarterAssets\Editor\FirstPersonStarterAssetsDeployMenu.cs" />
+     <Compile Include="Assets\Advanced Waypoint System\Editor\AWSEditor.cs" />
      <Compile Include="Assets\StarterAssets\Editor\StarterAssetsDeployMenu.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Drawers\HungerSettingDrawer.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Utilities\EditorGUILayoutUtilities.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Properties\SettingProperty.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Editor\VersionInfo.cs" />
+     <Compile Include="Assets\Advanced Waypoint System\Editor\WaypointCreatorInspector.cs" />
      <Compile Include="Assets\StarterAssets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\LanguageTextEditor.cs" />
      <Compile Include="Assets\StarterAssets\Editor\PackageChecker\PackageChecker.cs" />
+     <Compile Include="Assets\Advanced Waypoint System\Editor\AWSManagerInspector.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\TriggerPictogramEditor.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Editor\LanguageTemplateEditor.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Properties\ThirstSettingProperty.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\TriggerPictogram2DEditor.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\SettingsCreator.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Drawers\ThirstSettingDrawer.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\LanguageManagerEditor.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Properties\HungerSettingProperty.cs" />
      <Compile Include="Assets\EasySnap\Editor\CustomSelection.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Editor\EditorTools.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\BillboardEditor.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Editor\AssetmanagerEditor.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\Editor\PathSceneToolEditor.cs" />
-     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Utilities\EditorGUILayoutUtilities.cs" />
-     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Drawers\ThirstSettingDrawer.cs" />
-     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\SettingsCreator.cs" />
-     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Properties\SettingProperty.cs" />
-     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Drawers\HungerSettingDrawer.cs" />
-     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\SettingsEditor.cs" />
-     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\HungerThirstEditor.cs" />
-     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Properties\ThirstSettingProperty.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Drawers\SettingDrawer.cs" />
-     <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Properties\HungerSettingProperty.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Editor\GaugeInspector.cs" />
+     <Compile Include="Assets\WorldBuilder\Editor\WorldGen.cs" />
+     <Compile Include="Assets\WorldBuilder\Editor\World.cs" />
      <None Include="Assets\StarterAssets\Editor\PackageChecker\PackageImportList.txt" />
     <Reference Include="UnityEngine">
         <HintPath>D:/Unity/2020.3.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -302,11 +308,11 @@
     <Reference Include="UnityEditor.UWP.Extensions">
         <HintPath>D:/Unity/2020.3.1f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll</HintPath>
     </Reference>
-    <Reference Include="LinteumEditor">
-        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/Tafi/Linteum/Editor/LinteumEditor.dll</HintPath>
-    </Reference>
     <Reference Include="Hson.Utility">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="LinteumEditor">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/Tafi/Linteum/Editor/LinteumEditor.dll</HintPath>
     </Reference>
     <Reference Include="Hson.Serializer">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Serializer.dll</HintPath>
@@ -316,6 +322,15 @@
     </Reference>
     <Reference Include="Hson.Data">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="VehiclePhysics">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/Vehicle Physics Pro/Sdk/VehiclePhysics.dll</HintPath>
+    </Reference>
+    <Reference Include="VehiclePhysics_Editor">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/Vehicle Physics Pro/Sdk/Editor/VehiclePhysics_Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="CoherentNoise">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/WorldBuilder/Scripts/Helpers/CoherentNoise.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
@@ -674,11 +689,11 @@
     <Reference Include="Cinemachine">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="com.unity.cinemachine.editor">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -713,13 +728,13 @@
       <Project>{b28fb5b2-6244-0c6b-a872-40dd957e5fe0}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
-    <ProjectReference Include="LinteumClient.csproj">
-      <Project>{f20a27b1-2d7a-b848-d37b-2330afd77582}</Project>
-      <Name>LinteumClient</Name>
-    </ProjectReference>
     <ProjectReference Include="PathCreatorEditor.csproj">
       <Project>{17d271ad-b541-8c76-93ca-2c8d90e4aaa8}</Project>
       <Name>PathCreatorEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="LinteumClient.csproj">
+      <Project>{f20a27b1-2d7a-b848-d37b-2330afd77582}</Project>
+      <Name>LinteumClient</Name>
     </ProjectReference>
     <ProjectReference Include="PathCreator.csproj">
       <Project>{9a551be2-44dd-6801-c662-7614e5de7e7f}</Project>

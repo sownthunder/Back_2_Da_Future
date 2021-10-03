@@ -3,13 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b28fb5b2-6244-0c6b-a872-40dd957e5fe0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.InventorySystem", "DevionGames.InventorySystem.csproj", "{0de2c07b-1fe6-1353-c75b-ce2d7b57fc5e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.Utilities", "DevionGames.Utilities.csproj", "{f1d6acf6-3d50-f9f1-0580-68c497008c1a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanTransition", "LeanTransition.csproj", "{bd1cc182-cd60-1d51-0f59-75779f0d3095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.UIWidgets", "DevionGames.UIWidgets.csproj", "{86183da3-60a7-6447-ade2-75e1eee39298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.Triggers", "DevionGames.Triggers.csproj", "{191c5fcf-dbfe-e6e7-48f5-39737fdbdc24}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinteumClient", "LinteumClient.csproj", "{f20a27b1-2d7a-b848-d37b-2330afd77582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanCommon", "LeanCommon.csproj", "{273103f3-ac96-6dbf-6bce-b1dc54226a31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanGUI", "LeanGUI.csproj", "{94e7fb57-7382-e0e7-dfd4-3b348c3713d9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.StatSystem", "DevionGames.StatSystem.csproj", "{67fa62f9-b221-255d-bb50-96817f3db409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.ThirdPersonController", "DevionGames.ThirdPersonController.csproj", "{d24abe68-c912-d599-31e5-7d6cf083b39c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.Graphs", "DevionGames.Graphs.csproj", "{c8a28c9d-61af-23ab-8716-f34650d21dd7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathCreator", "PathCreator.csproj", "{9a551be2-44dd-6801-c662-7614e5de7e7f}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{da69075a-da25-8da6-ba58-6ed404cb536b}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathCreatorEditor", "PathCreatorEditor.csproj", "{17d271ad-b541-8c76-93ca-2c8d90e4aaa8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanTransition.Editor", "LeanTransition.Editor.csproj", "{73e349b6-7305-c01f-e218-b1a4094773dd}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,14 +40,36 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{b28fb5b2-6244-0c6b-a872-40dd957e5fe0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{b28fb5b2-6244-0c6b-a872-40dd957e5fe0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0de2c07b-1fe6-1353-c75b-ce2d7b57fc5e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0de2c07b-1fe6-1353-c75b-ce2d7b57fc5e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f1d6acf6-3d50-f9f1-0580-68c497008c1a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f1d6acf6-3d50-f9f1-0580-68c497008c1a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bd1cc182-cd60-1d51-0f59-75779f0d3095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bd1cc182-cd60-1d51-0f59-75779f0d3095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86183da3-60a7-6447-ade2-75e1eee39298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86183da3-60a7-6447-ade2-75e1eee39298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191c5fcf-dbfe-e6e7-48f5-39737fdbdc24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191c5fcf-dbfe-e6e7-48f5-39737fdbdc24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{f20a27b1-2d7a-b848-d37b-2330afd77582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{f20a27b1-2d7a-b848-d37b-2330afd77582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273103f3-ac96-6dbf-6bce-b1dc54226a31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273103f3-ac96-6dbf-6bce-b1dc54226a31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94e7fb57-7382-e0e7-dfd4-3b348c3713d9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94e7fb57-7382-e0e7-dfd4-3b348c3713d9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67fa62f9-b221-255d-bb50-96817f3db409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67fa62f9-b221-255d-bb50-96817f3db409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d24abe68-c912-d599-31e5-7d6cf083b39c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d24abe68-c912-d599-31e5-7d6cf083b39c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c8a28c9d-61af-23ab-8716-f34650d21dd7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c8a28c9d-61af-23ab-8716-f34650d21dd7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9a551be2-44dd-6801-c662-7614e5de7e7f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9a551be2-44dd-6801-c662-7614e5de7e7f}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{da69075a-da25-8da6-ba58-6ed404cb536b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{da69075a-da25-8da6-ba58-6ed404cb536b}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17d271ad-b541-8c76-93ca-2c8d90e4aaa8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{17d271ad-b541-8c76-93ca-2c8d90e4aaa8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73e349b6-7305-c01f-e218-b1a4094773dd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73e349b6-7305-c01f-e218-b1a4094773dd}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

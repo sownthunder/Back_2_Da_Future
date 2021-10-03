@@ -40,107 +40,219 @@
      <Compile Include="Assets\PathCreator\Examples\Scripts\PathSpawner.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Classes\LanguageTextXmlTag.cs" />
      <Compile Include="Assets\Advanced Waypoint System\Scripts\AWSEntityIdentifier.cs" />
+     <Compile Include="Assets\MazeGenerator\Scripts\RollerBall.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Standard\IStandardCaseCellData.cs" />
      <Compile Include="Assets\EasyGrassSubstance\Example Scene\ObjectRotation.cs" />
      <Compile Include="Assets\Hellmade\Eazy Sound Manager\Demo\Scripts\EazySoundManagerDemo.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\KinematicEstimator.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Enum\CellCondition.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Pickup\Interacter.cs" />
+     <Compile Include="Assets\Simple_Day_and_Night_Cycle\(EXAMPLEONLY)CharacterAssets\Characters\FirstPersonCharacter\Scripts\FirstPersonController_EXAMPLE.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Hashing\MD5HashComputation.cs" />
+     <Compile Include="Assets\Nokobot\Modern Guns - Handgun\_Demo Assets\SimpleShoot.cs" />
      <Compile Include="Assets\Demos\Common\Object Pooling Demos\Transform Object Pooling Demo\bxTransformObjectPoolDemo.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Settings\CompressionSettings.cs" />
      <Compile Include="Assets\EasySnap\Scripts\Unselectable.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\System\Globals.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\GeneratePathExample.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RotateCamera.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Settings\SharedSettings.cs" />
      <Compile Include="Assets\Demos\Common\Common Demo\bxCommonGameManager.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\FPSDisplay.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightIntensityFade.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\Filter2.cs" />
+     <Compile Include="Assets\WorldBuilder\Scripts\Heightmapbuilder.cs" />
+     <Compile Include="Assets\Aligned Games\Polygonal Modern Weapons Asset Package\Scripts\Utility\FlyCameraBehaviour.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Encryption\DesEncryption.cs" />
      <Compile Include="Assets\Low Poly Guns\Scripts\GunsMenu.cs" />
-     <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Pickup\Items\DrinkItem.cs" />
      <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs" />
-     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Classes\BlartenixLanguage.cs" />
+     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
+     <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Pickup\Items\DrinkItem.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Core\IVariableInventoryViewData.cs" />
      <Compile Include="Assets\Demos\Common\Object Pooling Demos\Multiple Objects Pooling Demo\bxShapesPool.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Pickup\IPickable.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Standard\StandardCaseView.cs" />
      <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Controller\CharacterControls.cs" />
      <Compile Include="Assets\StarterAssets\InputSystem\StarterAssetsInputs.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\WallMovable.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\Gauge.cs" />
      <Compile Include="Assets\RigidbodyExtension\Example\DrawLine.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\ThrustControl.cs" />
      <Compile Include="Assets\Advanced Waypoint System\Scripts\WaypointRoute.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\VectorCalculation.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\LanguageText.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\GameSettings.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Examples\Particle Effects\ShurikenMagic\Scripts\SM_RandomScale.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\TriggerPictogram.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Core\ValuableCore.cs" />
+     <Compile Include="Assets\Spaceflight Controls\Scripts\PlayerFlightControl.cs" />
+     <Compile Include="Assets\Spaceflight Controls\Scripts\CameraFlightFollow.cs" />
+     <Compile Include="Assets\MazeGenerator\Scripts\BasicMazeGenerator.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Sample\CaseCellData.cs" />
+     <Compile Include="Assets\MazeGenerator\Scripts\DivisionMazeGenerator.cs" />
+     <Compile Include="Assets\Devion Games\Standard Assets\Water (Pro Only)\Water4\Sources\Scripts\Displace.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveLocation\WebLocation.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\MovableObs.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Standard\StandardCore.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\ProportionalNavigation.cs" />
      <Compile Include="Assets\Kiki\Xmas Girl\Script\Cameras\Scripts\AbstractTargetFollower.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeTransforms.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Internal\RawDataConverter.cs" />
      <Compile Include="Assets\RigidbodyExtension\Scripts\RigidbodyExtension.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ShiftIndicator.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Controller\CameraManager.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\CollectionTools.cs" />
      <Compile Include="Assets\Demos\Common\Multi Language Demo\bxMultiLanguageManager.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Movement\SimpleFPCamera.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Cloud\FtpManager.cs" />
      <Compile Include="Assets\Kiki\Xmas Girl\Script\Cameras\Scripts\FreeLookCam.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\InputMonitor.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Core\VariableInventoryCore.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\TriggerPictogram2D.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoRotate.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\BankedPlatform.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\HungerThirstUI.cs" />
+     <Compile Include="Assets\Spaceflight Controls\Scripts\PSDestroy.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Core\VariableInventoryCell.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Hashing\SHA512HashComputation.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\GameRuntime.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Core\IVariableInventoryCellActions.cs" />
+     <Compile Include="Assets\MazeGenerator\Scripts\TreeMazeGenerator.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Settings\ThirstSettings.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\HungerThirst.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Movements\DirectionMovement.cs" />
+     <Compile Include="Assets\Devion Games\Standard Assets\Water (Pro Only)\Water4\Sources\Scripts\PlanarReflection.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Standard\StandardStashView.cs" />
      <Compile Include="Assets\StarterAssets\FirstPersonController\Scripts\BasicRigidBodyPush.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Internal\Serializer\HashingHelper.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\PathPlacer.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\InputConfigDialog.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Scriptable Objects\GameSettings.cs" />
      <Compile Include="Assets\StarterAssets\TutorialInfo\Scripts\Readme.cs" />
+     <Compile Include="Assets\FXIFIED\common\Scripts\Quit.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\GenericMenu.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\PlayerHealth.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Compression\GZipCompression.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\System\MyGlobals.cs" />
      <Compile Include="Assets\Demos\_Base Resources\Scripts\bxPlayerInputs.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\Filter3.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Internal\Serializer\CompressionHelper.cs" />
      <Compile Include="Assets\EasySnap\Scripts\SnapInfo.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ForceFeedbackMonitor.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Core\AssetCore.cs" />
+     <Compile Include="Assets\WorldBuilder\Scripts\Helpers\Threading.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\MathHelp.cs" />
+     <Compile Include="Assets\SurfaceDetector\_DemoScene\Scripts\Spectator.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Classes\JsonUtilityPrimitiveWrapper.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Standard\Common\StandardAssetLoader.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\HoverHandler.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\CreateObject.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Compression\CompressionScript.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Examples\Particle Effects\ShurikenMagic\Scripts\SM_AnimSpeedRandomizer.cs" />
      <Compile Include="Assets\Kiki\Xmas Girl\Script\Const.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\Derivative.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Manager\BasicManager.cs" />
+     <Compile Include="Assets\MazeGenerator\Scripts\MazeCell.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Examples\Particle Effects\ShurikenMagic\Scripts\SM_DestroyTimed.cs" />
+     <Compile Include="Assets\Devion Games\Standard Assets\Water (Pro Only)\Water4\Sources\Scripts\WaterTile.cs" />
+     <Compile Include="Assets\Devion Games\Triggers\Integrations\UI Widgets\Scripts\Runtime\YesNoDialog.cs" />
+     <Compile Include="Assets\WW2 Armed Forces Demo\Scripts\Scroll_Track.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Abstract\MultipleObjectsPool.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveScript\FileSave.cs" />
+     <Compile Include="Assets\WorldBuilder\Scripts\TerrainFoliage.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBase.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Internal\BitMasking.cs" />
      <Compile Include="Assets\StarterAssets\FirstPersonController\Scripts\FirstPersonController.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\PathFollow.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\FallPlat.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Standard\StandardCell.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Internal\Serializer\HsonRootElementHelper.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\TelemetryChartToolbar.cs" />
      <Compile Include="Assets\Advanced Waypoint System\Scripts\AWSPatrol.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\TransformPool.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\CustomEvents.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Abstract\SingletonBehaviour.cs" />
      <Compile Include="Assets\EasySnap\Scripts\HandleControlsUtility.cs" />
      <Compile Include="Assets\Demos\Common\Common Demo\bxMyLoggerClass.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\CreateTube.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\Window\TextWindow.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\Dashboard.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\FlyingCameraController.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs" />
+     <Compile Include="Assets\Devion Games\Standard Assets\Water (Pro Only)\Water4\Sources\Scripts\SpecularLighting.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Encryption\EncryptionScript.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Internal\CustomTypeReflection.cs" />
      <Compile Include="Assets\Kiki\Xmas Girl\Script\AutoBlink.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Movements\TargetMovement.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\SavePos.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveLocation\SaveLocation.cs" />
      <Compile Include="Assets\Advanced Waypoint System\Scripts\AWSManager.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ConfigDialog.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveScript\WebSave.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Pickup\Items\FoodItem.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\FollowHeading.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Cloud\FtpSearchOption.cs" />
+     <Compile Include="Assets\MazeGenerator\Scripts\MazeSpawner.cs" />
      <Compile Include="Assets\StarterAssets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\Pendulum.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Standard\StandardStashViewData.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Settings\HungerSettings.cs" />
+     <Compile Include="Assets\SurfaceDetector\Scripts\RaycastHitExtensions.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Menu\CoinsMenu.cs" />
+     <Compile Include="Assets\Bullet Casing\Scripts\Sound.cs" />
+     <Compile Include="Assets\Simple_Day_and_Night_Cycle\Scripts\DayAndNightControl.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Enum\CellCorner.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\ShowObject.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveScript\PlayerPrefsSave.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\HideOnStart.cs" />
+     <Compile Include="Assets\MazeGenerator\Scripts\RandomTreeMazeGenerator.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Billboard.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\VehicleSetupDialog.cs" />
+     <Compile Include="Assets\Devion Games\Standard Assets\Water (Pro Only)\Water4\Sources\Scripts\WaterBase.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\MainMenu\MenuManager.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\Filter.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDir.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\CaptureScreenshot.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\ControlHelp.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\AidsPanel.cs" />
+     <Compile Include="Assets\Devion Games\Standard Assets\Water (Pro Only)\Water4\Sources\Scripts\MeshContainer.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Interfaces\IBlartenixLogger.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\MainMenu\RateUS.cs" />
+     <Compile Include="Assets\Spaceflight Controls\Scripts\bullet.cs" />
+     <Compile Include="Assets\Bullet Casing\Scripts\FP_Shooting.cs" />
      <Compile Include="Assets\SoutaNew\Script\PlayerMoveCode.cs" />
+     <Compile Include="Assets\FXIFIED\common\Scripts\PowerUp.cs" />
      <Compile Include="Assets\EasySnap\Scripts\Snap.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\IgnitionKey.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\CloseOnKeyOrClick.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\Core\FlagEnumAttribute.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Example\Simple Survival\Scripts\Movement\SimpleMovement.cs" />
+     <Compile Include="Assets\Simple_Day_and_Night_Cycle\(EXAMPLEONLY)CharacterAssets\Characters\FirstPersonCharacter\Scripts\MouseLook_EXAMPLE.cs" />
      <Compile Include="Assets\Kiki\Xmas Girl\Script\PlayerController.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Standard\Common\StandardAsset.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Internal\Serializer\Serializer.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Manager\AssetManager.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Classes\BlartenixLogger.cs" />
      <Compile Include="Assets\StarterAssets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs" />
      <Compile Include="Assets\StarterAssets\ThirdPersonController\Scripts\ThirdPersonController.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\System\EditorTools.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_Translate.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Plugins\Flock.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeHelper.cs" />
      <Compile Include="Assets\_Barking_Dog\Common Scripts\Turn_Move.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Scriptable Objects\LanguageTemplate.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\PathSceneTool.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\Menu\MainMenuItem.cs" />
+     <Compile Include="Assets\SurfaceDetector\Scripts\SurfaceDetector.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\EndlessMovingSurface.cs" />
+     <Compile Include="Assets\Devion Games\Standard Assets\Water (Pro Only)\Water4\Sources\Scripts\GerstnerDisplace.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" />
      <Compile Include="Assets\Kiki\Xmas Girl\Script\Cameras\Scripts\PivotBasedCameraRig.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\PathFollower.cs" />
+     <Compile Include="Assets\Spaceflight Controls\Scripts\CustomPointer.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Classes\JsonUtilityArrayWrapper.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Exceptions\DataModifiedException.cs" />
      <Compile Include="Assets\EasySnap\Scripts\SnapRecognize.cs" />
@@ -148,112 +260,173 @@
      <Compile Include="Assets\_Creepy_Cat\3D Games Effects Pack Free\Example_02\InstanceExample.cs" />
      <Compile Include="Assets\EasySnap\Scripts\RayCastMasks.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\LanguageManager.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Examples\Particle Effects\ShurikenMagic\Scripts\SM_TrailFade.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveLocation\FileLocation.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\Rotator.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\ChangeAcceleration.cs" />
      <Compile Include="Assets\Advanced Waypoint System\Scripts\WaypointRouteIdentifier.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Core\IVariableInventoryCell.cs" />
+     <Compile Include="Assets\MazeGenerator\Scripts\RecursiveMazeGenerator.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Core\IVariableInventoryView.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Settings\SerializerSettings.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Sample\SampleScene.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Standard\StandardCaseViewData.cs" />
      <Compile Include="Assets\Demos\_Base Resources\Scripts\bxCameraFollow.cs" />
      <Compile Include="Assets\SoutaNew\Script\PlayerBasicCode.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\MissileSupervisor.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\DebugLogText.cs" />
      <Compile Include="Assets\Demos\Common\Object Pooling Demos\Multiple Objects Pooling Demo\bxMultiObjectPoolDemo.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Hashing\HashingScript.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Standard\StandardCaseViewPopup.cs" />
+     <Compile Include="Assets\WorldBuilder\Scripts\TerrainTexturing.cs" />
+     <Compile Include="Assets\WorldBuilder\Scripts\TerrainGeneration.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBox.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_New.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Examples\Particle Effects\ShurikenMagic\Scripts\SM_Rotate.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\PauseVehicle.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\DeviceDebugInfo.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\PlayParticleEffect.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Sample\ItemCellData.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\MultiToggle.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Standard\Common\StandardButton.cs" />
      <Compile Include="Assets\Hellmade\Eazy Sound Manager\Scripts\EazySoundManager.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightFlicker.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\CloseOnStart.cs" />
+     <Compile Include="Assets\Devion Games\Third Person Controller\Example\Particles\Impact\Scripts\AutoDestruct.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveScript\SaveScript.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\System\Extensions.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\KillZone.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WateverVolumeFloater.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Enums\LookForTagAt.cs" />
      <Compile Include="Assets\SaveSystem\Examples\Cloud\CloudExample.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Settings\DataModificationSettings.cs" />
+     <Compile Include="Assets\Devion Games\Standard Assets\Water (Pro Only)\Sources\Scripts\Water.cs" />
      <Compile Include="Assets\Hellmade\Eazy Sound Manager\Scripts\Audio.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ShowValueFromSlider.cs" />
      <Compile Include="Assets\Low Poly Guns\Scripts\GunView.cs" />
      <Compile Include="Assets\SoutaNew\Script\ThirdPerson.cs" />
      <Compile Include="Assets\Demos\_Base Resources\Scripts\bxEllenController.cs" />
      <Compile Include="Assets\_Barking_Dog\Common Scripts\MouseLook.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\MenuOverlay.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\MainMenu\SoundCheck.cs" />
-     <Compile Include="Assets\Blartenix\Common\Scripts\Components\Abstract\ObjectPool.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\MissileGuidance.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Core\IVariableInventoryImageAsset.cs" />
+     <Compile Include="Assets\Spaceflight Controls\Scripts\DemoUI.cs" />
      <Compile Include="Assets\Advanced Waypoint System\Scripts\Waypoint.cs" />
+     <Compile Include="Assets\VariableInventorySystem\Core\IVariableInventoryCellData.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Components\Abstract\ObjectPool.cs" />
+     <Compile Include="Assets\Simple_Day_and_Night_Cycle\Scripts\VisualClockController.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Settings\EncryptionSettings.cs" />
      <Compile Include="Assets\Advanced Waypoint System\Scripts\WaypointIdentifier.cs" />
      <Compile Include="Assets\Demos\Common\Object Pooling Demos\Multiple Objects Pooling Demo\bxShape.cs" />
      <Compile Include="Assets\EasySnap\Scripts\DecoratorEditor.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\EscapeDialog.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\CanvasEnabler.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\Bounce.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\MovableObject.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveScript\SaveUtility.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\ConstantSpeed.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\SaveScript\SaveLocation\PlayerPrefsLocation.cs" />
+     <Compile Include="Assets\FXIFIED\common\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Classes\Utilities.cs" />
+     <Compile Include="Assets\MazeGenerator\Scripts\OldestTreeMazeGenerator.cs" />
      <Compile Include="Assets\Blartenix\Common\Prototyping\Game Settings\GameSettingsUI.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\RoadMeshCreator.cs" />
      <Compile Include="Assets\Demos\Common\Billboard Demo\bxBillboardController.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\FPSDisplay.cs" />
      <Compile Include="Assets\SaveSystem\Scripts\Internal\Serializer\EncryptionHelper.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Classes\System\SecurityClass.cs" />
-     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Enums\BlartenixLogType.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ConfigDialog.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\BankedPlatform.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\InputConfigDialog.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\EscapeDialog.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\FollowHeading.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\VehicleSetupDialog.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\GenericMenu.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\MovableObject.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\TelemetryChartToolbar.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\PauseVehicle.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\EndlessMovingSurface.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ShowValueFromSlider.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\DeviceDebugInfo.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\CaptureScreenshot.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\AidsPanel.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\MenuOverlay.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ForceFeedbackMonitor.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\Gauge.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\Dashboard.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ShiftIndicator.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\MultiToggle.cs" />
      <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\GearModeSelector.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\IgnitionKey.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\CloseOnKeyOrClick.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\HoverHandler.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\InputMonitor.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\CloseOnStart.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\HideOnStart.cs" />
-     <Compile Include="Assets\WorldBuilder\Scripts\TerrainTexturing.cs" />
-     <Compile Include="Assets\WorldBuilder\Scripts\Helpers\Threading.cs" />
-     <Compile Include="Assets\WorldBuilder\Scripts\Heightmapbuilder.cs" />
-     <Compile Include="Assets\WorldBuilder\Scripts\TerrainGeneration.cs" />
-     <Compile Include="Assets\WorldBuilder\Scripts\TerrainFoliage.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Examples\Particle Effects\ShurikenMagic\Scripts\SM_PrefabGenerator.cs" />
+     <Compile Include="Assets\MazeGenerator\Scripts\RecursiveTreeMazeGenerator.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Accessories\Movement.cs" />
+     <Compile Include="Assets\Blartenix\Common\Scripts\Core\Enums\BlartenixLogType.cs" />
+     <Compile Include="Assets\MapGenerator\Scripts\AN_CitySample.cs" />
+     <Compile Include="Assets\MapGenerator\For YouTube Video\AN_Viewer.cs" />
+     <Compile Include="Assets\MapGenerator\For YouTube Video\AN_SimpleTransform.cs" />
+     <Compile Include="Assets\MapGenerator\Prefab\Hero\AN_HeroController.cs" />
+     <Compile Include="Assets\MapGenerator\Scripts\AN_SimpleDestroy.cs" />
+     <Compile Include="Assets\MapGenerator\Scripts\AN_SimpleCityGenerator.cs" />
+     <Compile Include="Assets\MapGenerator\For YouTube Video\AN_VideoView.cs" />
+     <Compile Include="Assets\MSVehicleSystem(FreeVersion)\Scripts\ExampleSceneFree.cs" />
+     <Compile Include="Assets\MSVehicleSystem(FreeVersion)\Scripts\JoystickFree.cs" />
+     <Compile Include="Assets\MSVehicleSystem(FreeVersion)\Scripts\MSVehicleControllerFree.cs" />
+     <Compile Include="Assets\MSVehicleSystem(FreeVersion)\Scripts\MSFPSControllerFree.cs" />
+     <Compile Include="Assets\MSVehicleSystem(FreeVersion)\Scripts\MSSceneControllerFree.cs" />
+     <Compile Include="Assets\MSVehicleSystem(FreeVersion)\Scripts\MSOpenURL.cs" />
+     <Compile Include="Assets\MSVehicleSystem(FreeVersion)\Scripts\MSButtonFree.cs" />
+     <Compile Include="Assets\Marcos Schultz\MSAdvancedCameraController\Scripts\MobileSystems\MSACCMobileInputs.cs" />
+     <Compile Include="Assets\Marcos Schultz\MSAdvancedCameraController\Scripts\MobileSystems\MSACCJoystick.cs" />
+     <Compile Include="Assets\Marcos Schultz\MSAdvancedCameraController\Example\VehicleControllerMSACC.cs" />
+     <Compile Include="Assets\Marcos Schultz\MSAdvancedCameraController\Scripts\MobileSystems\MSACCButtons.cs" />
+     <Compile Include="Assets\Marcos Schultz\MSAdvancedCameraController\Scripts\MSCameraController.cs" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\Standard 2018\Hair mark 9\DitherFunctions.cginc" />
+     <None Include="Assets\Devion Games\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\Demos\Common\Common Demo\en - common-demo.xml" />
+     <None Include="Assets\Devion Games\Inventory System\Changes.txt" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\HDRP 7.3\Invisible.shader" />
      <None Include="Assets\sFuture Modules\Read Me.txt" />
+     <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\Standard 2018\IrayUberGeneral - StandardPipeline.shader" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\URP 7.3\IrayUberGeneral - Universal.shader" />
      <None Include="Assets\ManNeko_Assets\Adventurer Blake\Read Me.txt" />
      <None Include="Assets\Demos\Common\Multi Language Demo\es - multi language demo.xml" />
+     <None Include="Assets\ControlledFlightLite\Documentation\Readme.txt" />
+     <None Include="Assets\JMO Assets\Cartoon FX\CartoonFX Free.txt" />
      <None Include="Assets\Vehicle Physics Pro\VPP Project Settings\!Readme - Project Settings.txt" />
      <None Include="Assets\Vehicle Physics Pro\Sample Assets\Art\Fonts\OFL.txt" />
+     <None Include="Assets\Devion Games\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\WaterInclude.cginc" />
+     <None Include="Assets\Devion Games\Triggers\Rename Action Info.txt" />
      <None Include="Assets\EasySnap\Materials\shaders\overlayShader.shader" />
      <None Include="Assets\Kiki\Shaders\ToonLitOutline.shader" />
+     <None Include="Assets\HuMan\Documentation\AnimationsStart&amp;End.txt" />
+     <None Include="Assets\JMO Assets\Cartoon FX Easy Editor\CartoonFX Easy Editor Readme.txt" />
+     <None Include="Assets\Devion Games\Triggers\Changes.txt" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\Standard 2018\Hair mark 9\AlphaTest-VertexLit.shader" />
+     <None Include="Assets\Aligned Games\Polygonal Modern Weapons Asset Package\Shaders\Diffuse.shader" />
      <None Include="Assets\_Creepy_Cat\3D Games Effects Pack Free\Example_02\Help Readme SOS.txt" />
      <None Include="Assets\FN57\Read_me.txt" />
+     <None Include="Assets\Devion Games\Third Person Controller\Example\Particles\Impact\Shaders\Additive Alpha8.shader" />
+     <None Include="Assets\Nokobot\Modern Guns - Handgun\README.txt" />
      <None Include="Assets\Kiki\Xmas Girl\Script\Cameras\CameraGuidelines.txt" />
      <None Include="Assets\SaveSystem\Examples\MoreExamples.txt" />
      <None Include="Assets\StarterAssets\Environment\Shaders\Built-in_RP\Triplanar.shader" />
      <None Include="Assets\EasyGrassSubstance\Documentation.txt" />
+     <None Include="Assets\Lean\READ ME.txt" />
+     <None Include="Assets\Spaceflight Controls\Documentation\Spaceflight Controls Setup Guide.txt" />
      <None Include="Assets\Blartenix\Common\Prototyping\Game Settings\en - settings.xml" />
+     <None Include="Assets\Devion Games\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-Water4.shader" />
      <None Include="Assets\Demos\Common\Common Demo\es - common demo.xml" />
      <None Include="Assets\Kiki\Shaders\ToonLit.shader" />
+     <None Include="Assets\SurfaceDetector\_DemoScene\ReadMeToo.txt" />
      <None Include="Assets\Blartenix\Common\Prototyping\Game Settings\es - settings.xml" />
      <None Include="Assets\StarterAssets\license.txt" />
      <None Include="Assets\Kiki\Shaders\ToonBasic.shader" />
+     <None Include="Assets\1nfern0\SubmachineGun\submachinegunshader.shader" />
      <None Include="Assets\Vehicle Physics Pro\Sample Assets\Art\Fonts\_Readme.txt" />
      <None Include="Assets\_3dModels\bttf_chars\License.txt" />
+     <None Include="Assets\Devion Games\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
      <None Include="Assets\Demos\Common\Multi Language Demo\en - multi language demo.xml" />
+     <None Include="Assets\Marcos Schultz\MSAdvancedCameraController\UpdateNotes.txt" />
+     <None Include="Assets\Devion Games\Standard Assets\Water (Pro Only)\Sources\Shaders\FX-Water.shader" />
+     <None Include="Assets\Devion Games\Third Person Controller\Changes.txt" />
      <None Include="Assets\_Creepy_Cat\3D Games Effects Pack Free\_FAQ - Informations\Help Readme SOS.txt" />
      <None Include="Assets\Hunger &amp; Thirst System\Online Documentation.txt" />
      <None Include="Assets\Kiki\Shaders\ToonBasicOutline.shader" />
      <None Include="Assets\Tafi\! Readme\Licenses.txt" />
+     <None Include="Assets\FXIFIED\common\Shaders\RimLight.shader" />
+     <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
+     <None Include="Assets\Simple_Day_and_Night_Cycle\(EXAMPLEONLY)CharacterAssets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Resources\EasyPopulation\population.xml" />
      <None Include="Assets\Vehicle Physics Pro\Sample Assets\Locations\! Locations.txt" />
      <None Include="Assets\Tafi\Shaders\ShaderSets\HDRP 7.3\Helpers\GetLighDirection.hlsl" />
+     <None Include="Assets\MSVehicleSystem(FreeVersion)\Update Notes.txt" />
      <None Include="Assets\POLYGON city pack\Read_me.txt" />
      <None Include="Assets\Demos\_Base Resources\Fonts\Rajdhani\RajdhaniFontLicense.txt" />
+     <None Include="Assets\Devion Games\Stat System\Changes.txt" />
      <None Include="Assets\StarterAssets\Environment\Shaders\Built-in_RP\ArmatureShader.shader" />
+     <None Include="Assets\MSVehicleSystem(FreeVersion)\Scripts\Shaders\SkidMarks.shader" />
+     <None Include="Assets\Simple_Day_and_Night_Cycle\ReadMe.txt" />
      <None Include="Assets\SaveSystem\Readme.txt" />
      <None Include="Assets\Tafi\! Readme\Readme.txt" />
      <None Include="Assets\Colt Python\Read_me.txt" />
@@ -491,11 +664,11 @@
     <Reference Include="Hson.Formatter">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Formatter.dll</HintPath>
     </Reference>
-    <Reference Include="Hson.Data">
-        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Data.dll</HintPath>
-    </Reference>
     <Reference Include="VehiclePhysics">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/Vehicle Physics Pro/Sdk/VehiclePhysics.dll</HintPath>
+    </Reference>
+    <Reference Include="Hson.Data">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Data.dll</HintPath>
     </Reference>
     <Reference Include="CoherentNoise">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/WorldBuilder/Scripts/Helpers/CoherentNoise.dll</HintPath>
@@ -883,17 +1056,61 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="DevionGames.Utilities.csproj">
+      <Project>{f1d6acf6-3d50-f9f1-0580-68c497008c1a}</Project>
+      <Name>DevionGames.Utilities</Name>
+    </ProjectReference>
     <ProjectReference Include="PathCreatorEditor.csproj">
       <Project>{17d271ad-b541-8c76-93ca-2c8d90e4aaa8}</Project>
       <Name>PathCreatorEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="DevionGames.InventorySystem.csproj">
+      <Project>{0de2c07b-1fe6-1353-c75b-ce2d7b57fc5e}</Project>
+      <Name>DevionGames.InventorySystem</Name>
+    </ProjectReference>
+    <ProjectReference Include="DevionGames.Triggers.csproj">
+      <Project>{191c5fcf-dbfe-e6e7-48f5-39737fdbdc24}</Project>
+      <Name>DevionGames.Triggers</Name>
     </ProjectReference>
     <ProjectReference Include="LinteumClient.csproj">
       <Project>{f20a27b1-2d7a-b848-d37b-2330afd77582}</Project>
       <Name>LinteumClient</Name>
     </ProjectReference>
+    <ProjectReference Include="DevionGames.Graphs.csproj">
+      <Project>{c8a28c9d-61af-23ab-8716-f34650d21dd7}</Project>
+      <Name>DevionGames.Graphs</Name>
+    </ProjectReference>
+    <ProjectReference Include="LeanCommon.csproj">
+      <Project>{273103f3-ac96-6dbf-6bce-b1dc54226a31}</Project>
+      <Name>LeanCommon</Name>
+    </ProjectReference>
+    <ProjectReference Include="DevionGames.ThirdPersonController.csproj">
+      <Project>{d24abe68-c912-d599-31e5-7d6cf083b39c}</Project>
+      <Name>DevionGames.ThirdPersonController</Name>
+    </ProjectReference>
+    <ProjectReference Include="LeanGUI.csproj">
+      <Project>{94e7fb57-7382-e0e7-dfd4-3b348c3713d9}</Project>
+      <Name>LeanGUI</Name>
+    </ProjectReference>
+    <ProjectReference Include="DevionGames.UIWidgets.csproj">
+      <Project>{86183da3-60a7-6447-ade2-75e1eee39298}</Project>
+      <Name>DevionGames.UIWidgets</Name>
+    </ProjectReference>
     <ProjectReference Include="PathCreator.csproj">
       <Project>{9a551be2-44dd-6801-c662-7614e5de7e7f}</Project>
       <Name>PathCreator</Name>
+    </ProjectReference>
+    <ProjectReference Include="LeanTransition.Editor.csproj">
+      <Project>{73e349b6-7305-c01f-e218-b1a4094773dd}</Project>
+      <Name>LeanTransition.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="LeanTransition.csproj">
+      <Project>{bd1cc182-cd60-1d51-0f59-75779f0d3095}</Project>
+      <Name>LeanTransition</Name>
+    </ProjectReference>
+    <ProjectReference Include="DevionGames.StatSystem.csproj">
+      <Project>{67fa62f9-b221-255d-bb50-96817f3db409}</Project>
+      <Name>DevionGames.StatSystem</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

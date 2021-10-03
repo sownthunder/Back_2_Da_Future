@@ -36,40 +36,156 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\PropertyDrawers\RarityPickerDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\UI\ItemContainerInspector.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\Settings\SavingLoadingInspector.cs" />
+     <Compile Include="Assets\Devion Games\Graphs\Scripts\Editor\FlowGraph\FlowGraphView.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Property Drawers\InspectorLabelDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Module Manager\Editor\Changelog.cs" />
+     <Compile Include="Assets\Devion Games\Module Manager\Editor\ModuleItem.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\InventorySystemEditor.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\UtilityWindow.cs" />
+     <Compile Include="Assets\SurfaceDetector\Scripts\Editor\SurfaceDetectorWindow.cs" />
+     <Compile Include="Assets\Devion Games\Stat System\Scripts\Editor\StatPickerDrawer.cs" />
+     <Compile Include="Assets\WorldBuilder\Editor\World.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\InventorySystemMenu.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\PropertyDrawers\ItemPickerDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Third Person Controller\Scripts\Editor\ThirdPersonCameraEditor.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Inspectors\SelectionHandlerInspector.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\PropertyDrawers\CurrencyPickerDrawer.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\HungerThirstEditor.cs" />
      <Compile Include="Assets\StarterAssets\Editor\ScriptingDefineUtils.cs" />
      <Compile Include="Assets\StarterAssets\Editor\ThirdPersonStarterAssetsDeployMenu.cs" />
+     <Compile Include="Assets\Devion Games\Graphs\Scripts\Editor\FlowGraph\FlowGraphPropertyDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Stat System\Scripts\Editor\StatSystemInspector.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Asset\AddObjectWindow.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX Easy Editor\Editor\CFXEasyEditor.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Property Drawers\VariablePropertyDrawer.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\SettingsEditor.cs" />
+     <Compile Include="Assets\Devion Games\Module Manager\Editor\UpdateNotificationWindow.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\SpritePropertyDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Graphs\Scripts\Editor\ConnectionStyle.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Property Drawers\ArgumentVariableDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\EditorTools.cs" />
+     <Compile Include="Assets\Devion Games\Stat System\Scripts\Editor\StatsHandlerInspector.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Collection Editor\ScriptableObjectCollectionEditor.cs" />
      <Compile Include="Assets\StarterAssets\Editor\FirstPersonStarterAssetsDeployMenu.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\Items\UsableItemInspector.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\VisibleItemsEditor.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\PropertyDrawers\PickerDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\EquipmentHandlerInspector.cs" />
      <Compile Include="Assets\Advanced Waypoint System\Editor\AWSEditor.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\Settings\DefaultInspector.cs" />
      <Compile Include="Assets\StarterAssets\Editor\StarterAssetsDeployMenu.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Property Drawers\HeaderLineDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\PropertyDrawers\HasCategoryItemDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Stat System\Scripts\Editor\StatCollectionEditor.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\Modifiers\RarityModifierInspector.cs" />
+     <Compile Include="Assets\Devion Games\Graphs\Scripts\Editor\GraphPropertyDrawer.cs" />
+     <Compile Include="Assets\Devion Games\UI Widgets\Scripts\Editor\UIWidgetInspector.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\MergeDatabaseEditor.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Collection Editor\CollectionEditor.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\ItemCollectionInspector.cs" />
+     <Compile Include="Assets\ControlledFlightLite\Scripts\Editor\MissileSupervisorInspector.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Drawers\HungerSettingDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Stat System\Scripts\Editor\StatSettingsEditor.cs" />
+     <Compile Include="Assets\Devion Games\Stat System\Scripts\Editor\StatSystemMenu.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Utilities\EditorGUILayoutUtilities.cs" />
+     <Compile Include="Assets\SurfaceDetector\Scripts\Editor\SurfaceDetectorTab.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\ItemGroupInspector.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\ItemCollectionEditor.cs" />
+     <Compile Include="Assets\Devion Games\Third Person Controller\Scripts\Editor\ThirdPersonControllerEditor.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Internal\CopyComponentEditor.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Property Drawers\EnumFlagsDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Inspectors\AudioEventListenerInspector.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Properties\SettingProperty.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Internal\BuiltInResourcesWindow.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\EquipmentHandlerEditor.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\ItemSettingsEditor.cs" />
+     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Editor\GaugeInspector.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\Items\EquipmentItemInspector.cs" />
+     <Compile Include="Assets\Devion Games\Triggers\Scripts\Editor\ActionInspector.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Asset\AssetWindow.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Editor\VersionInfo.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Asset\ObjectWindow.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\ItemReferenceEditor.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Collection Editor\NamedVariableCollectionEditor.cs" />
+     <Compile Include="Assets\Devion Games\Graphs\Scripts\Editor\EditorExtensions.cs" />
+     <Compile Include="Assets\Devion Games\Graphs\Scripts\Editor\GraphEditorWindow.cs" />
      <Compile Include="Assets\Advanced Waypoint System\Editor\WaypointCreatorInspector.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\CustomDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\Items\CurrencyInspector.cs" />
+     <Compile Include="Assets\Devion Games\UI Widgets\Scripts\Editor\UIWidgetEditor.cs" />
+     <Compile Include="Assets\Devion Games\Stat System\Scripts\Editor\StatEffectInspector.cs" />
+     <Compile Include="Assets\Devion Games\Triggers\Scripts\Editor\BaseTriggerInspector.cs" />
+     <Compile Include="Assets\Spaceflight Controls\Editor\FlightSysEditor.cs" />
+     <Compile Include="Assets\Devion Games\Triggers\Scripts\Editor\ActionListDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Internal\InternalTestingTools.cs" />
+     <Compile Include="Assets\Devion Games\UI Widgets\Scripts\Editor\UIContainerInspector.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\ItemGroupGeneratorInspector.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Property Drawers\NamedVariableLayoutDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Stat System\Scripts\Editor\SavingLoadingInspector.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Collection Editor\ICollectionEditor.cs" />
+     <Compile Include="Assets\Devion Games\Third Person Controller\Scripts\Editor\ThirdPersonControllerSetupWindow.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\Editor\FlagEnumAttributeDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Graphs\Scripts\Editor\ZoomableArea.cs" />
      <Compile Include="Assets\StarterAssets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\LanguageTextEditor.cs" />
+     <Compile Include="Assets\Devion Games\Graphs\Scripts\Editor\IGraphView.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\Items\ItemInspector.cs" />
+     <Compile Include="Assets\Devion Games\Stat System\Scripts\Editor\ExecutionOrderValidator.cs" />
+     <Compile Include="Assets\Devion Games\Stat System\Scripts\Editor\StatInspector.cs" />
      <Compile Include="Assets\StarterAssets\Editor\PackageChecker\PackageChecker.cs" />
+     <Compile Include="Assets\SurfaceDetector\Scripts\Editor\EditorHelper.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\PropertyDrawers\EquipmentPickerDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\ItemGeneratorInspector.cs" />
+     <Compile Include="Assets\WorldBuilder\Editor\WorldGen.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Internal\TextToTextMeshPro.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\PropertyDrawers\HasItemDrawer.cs" />
      <Compile Include="Assets\Advanced Waypoint System\Editor\AWSManagerInspector.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\PropertyDrawers\ItemGroupPickerDrawer.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\TriggerPictogramEditor.cs" />
+     <Compile Include="Assets\Devion Games\Third Person Controller\Scripts\Editor\WriteInputManager.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Editor\LanguageTemplateEditor.cs" />
+     <Compile Include="Assets\Devion Games\Triggers\Scripts\Editor\BehaviorTriggerInspector.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Property Drawers\CompoundDrawer.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Properties\ThirstSettingProperty.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\TriggerPictogram2DEditor.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\PropertyDrawers\CategoryPickerDrawer.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\SettingsCreator.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\Modifiers\PropertyModifierInspector.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Property Drawers\MinMaxSliderDrawer.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Drawers\ThirstSettingDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\AttachmentPropertyDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Collection Editor\ObjectCollectionEditor.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\ItemContainerPopulatorInspector.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\LanguageManagerEditor.cs" />
+     <Compile Include="Assets\Devion Games\Module Manager\Editor\ModuleManagerWindow.cs" />
+     <Compile Include="Assets\Devion Games\Triggers\Scripts\Editor\ActionsDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Property Drawers\NamedVariableDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Inspectors\BlackboardInspector.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Properties\HungerSettingProperty.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\InventorySystemInspector.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\UI\SlotInspector.cs" />
+     <Compile Include="Assets\Devion Games\Triggers\Scripts\Editor\ActionTemplateInspector.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Asset\ObjectPickerWindow.cs" />
      <Compile Include="Assets\EasySnap\Editor\CustomSelection.cs" />
+     <Compile Include="Assets\Devion Games\Stat System\Scripts\Editor\StatEffectPickerDrawer.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Inspectors\PropertyBindingInspector.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Core\Editor\EditorTools.cs" />
      <Compile Include="Assets\Blartenix\Common\Scripts\Components\Editor\BillboardEditor.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\Inspectors\CallbackHandlerInspector.cs" />
      <Compile Include="Assets\Easy Secure - Coins, Gems\Scripts\Coins\Editor\AssetmanagerEditor.cs" />
+     <Compile Include="Assets\Devion Games\Stat System\Scripts\Editor\StatSystemEditor.cs" />
+     <Compile Include="Assets\Devion Games\Graphs\Scripts\Editor\GraphView.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\CustomDrawerAttribute.cs" />
+     <Compile Include="Assets\Devion Games\Utilities\Scripts\Editor\UtilityInstanceWindow.cs" />
+     <Compile Include="Assets\Devion Games\Module Manager\Editor\JsonHelper.cs" />
+     <Compile Include="Assets\Devion Games\Inventory System\Scripts\Editor\Inspectors\Items\SkillInspector.cs" />
      <Compile Include="Assets\PathCreator\Examples\Scripts\Editor\PathSceneToolEditor.cs" />
      <Compile Include="Assets\Hunger &amp; Thirst System\Scripts\Editor\Hunger Thirst\Setting Drawers\SettingDrawer.cs" />
-     <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Editor\GaugeInspector.cs" />
-     <Compile Include="Assets\WorldBuilder\Editor\WorldGen.cs" />
-     <Compile Include="Assets\WorldBuilder\Editor\World.cs" />
+     <Compile Include="Assets\MapGenerator\Editor\AN_CustomInspector.cs" />
+     <None Include="Assets\Devion Games\Graphs\Scripts\Editor\Resources\GridLine.shader" />
      <None Include="Assets\StarterAssets\Editor\PackageChecker\PackageImportList.txt" />
     <Reference Include="UnityEngine">
         <HintPath>D:/Unity/2020.3.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -320,14 +436,17 @@
     <Reference Include="Hson.Formatter">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Formatter.dll</HintPath>
     </Reference>
-    <Reference Include="Hson.Data">
-        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Data.dll</HintPath>
+    <Reference Include="VehiclePhysics_Editor">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/Vehicle Physics Pro/Sdk/Editor/VehiclePhysics_Editor.dll</HintPath>
     </Reference>
     <Reference Include="VehiclePhysics">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/Vehicle Physics Pro/Sdk/VehiclePhysics.dll</HintPath>
     </Reference>
-    <Reference Include="VehiclePhysics_Editor">
-        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/Vehicle Physics Pro/Sdk/Editor/VehiclePhysics_Editor.dll</HintPath>
+    <Reference Include="Hson.Data">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/SaveSystem/Scripts/Internal/Hson/Hson.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="JMOAssets_CartoonFXFreeWelcome">
+        <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/JMO Assets/Editor/JMOAssets_CartoonFXFreeWelcome.dll</HintPath>
     </Reference>
     <Reference Include="CoherentNoise">
         <HintPath>X:/Back_2_Da_Future/Back_2_Da_Future/New Unity Project/Assets/WorldBuilder/Scripts/Helpers/CoherentNoise.dll</HintPath>
@@ -728,17 +847,61 @@
       <Project>{b28fb5b2-6244-0c6b-a872-40dd957e5fe0}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
+    <ProjectReference Include="DevionGames.Utilities.csproj">
+      <Project>{f1d6acf6-3d50-f9f1-0580-68c497008c1a}</Project>
+      <Name>DevionGames.Utilities</Name>
+    </ProjectReference>
     <ProjectReference Include="PathCreatorEditor.csproj">
       <Project>{17d271ad-b541-8c76-93ca-2c8d90e4aaa8}</Project>
       <Name>PathCreatorEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="DevionGames.InventorySystem.csproj">
+      <Project>{0de2c07b-1fe6-1353-c75b-ce2d7b57fc5e}</Project>
+      <Name>DevionGames.InventorySystem</Name>
+    </ProjectReference>
+    <ProjectReference Include="DevionGames.Triggers.csproj">
+      <Project>{191c5fcf-dbfe-e6e7-48f5-39737fdbdc24}</Project>
+      <Name>DevionGames.Triggers</Name>
     </ProjectReference>
     <ProjectReference Include="LinteumClient.csproj">
       <Project>{f20a27b1-2d7a-b848-d37b-2330afd77582}</Project>
       <Name>LinteumClient</Name>
     </ProjectReference>
+    <ProjectReference Include="DevionGames.Graphs.csproj">
+      <Project>{c8a28c9d-61af-23ab-8716-f34650d21dd7}</Project>
+      <Name>DevionGames.Graphs</Name>
+    </ProjectReference>
+    <ProjectReference Include="LeanCommon.csproj">
+      <Project>{273103f3-ac96-6dbf-6bce-b1dc54226a31}</Project>
+      <Name>LeanCommon</Name>
+    </ProjectReference>
+    <ProjectReference Include="DevionGames.ThirdPersonController.csproj">
+      <Project>{d24abe68-c912-d599-31e5-7d6cf083b39c}</Project>
+      <Name>DevionGames.ThirdPersonController</Name>
+    </ProjectReference>
+    <ProjectReference Include="LeanGUI.csproj">
+      <Project>{94e7fb57-7382-e0e7-dfd4-3b348c3713d9}</Project>
+      <Name>LeanGUI</Name>
+    </ProjectReference>
+    <ProjectReference Include="DevionGames.UIWidgets.csproj">
+      <Project>{86183da3-60a7-6447-ade2-75e1eee39298}</Project>
+      <Name>DevionGames.UIWidgets</Name>
+    </ProjectReference>
     <ProjectReference Include="PathCreator.csproj">
       <Project>{9a551be2-44dd-6801-c662-7614e5de7e7f}</Project>
       <Name>PathCreator</Name>
+    </ProjectReference>
+    <ProjectReference Include="LeanTransition.Editor.csproj">
+      <Project>{73e349b6-7305-c01f-e218-b1a4094773dd}</Project>
+      <Name>LeanTransition.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="LeanTransition.csproj">
+      <Project>{bd1cc182-cd60-1d51-0f59-75779f0d3095}</Project>
+      <Name>LeanTransition</Name>
+    </ProjectReference>
+    <ProjectReference Include="DevionGames.StatSystem.csproj">
+      <Project>{67fa62f9-b221-255d-bb50-96817f3db409}</Project>
+      <Name>DevionGames.StatSystem</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
